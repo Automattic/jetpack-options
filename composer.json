@@ -14,12 +14,7 @@
 			"legacy"
 		]
 	},
-	"repositories": [
-		{
-			"type": "path",
-			"url": "../*"
-		}
-	],
+	"repositories": [],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
